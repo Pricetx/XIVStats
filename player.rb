@@ -38,6 +38,7 @@ class Player
     p360days
     p450days
     p630days
+    p960days
     prearr
     prehw
     artbook
